@@ -1,0 +1,352 @@
+cellID: 447 Signal strength : 2 Neighbor 1: 446 Neighbor 2: 511 Neighbor 3: 0 Time: 15
+cellID: 447 Signal strength : 4 Neighbor 1: 444 Neighbor 2: 511 Neighbor 3: 0 Time: 4.567
+cellID: 444 Signal strength : 4 Neighbor 1: 0 Neighbor 2: 0 Neighbor 3: 0 Time: 3
+cellID: 445 Signal strength : 4 Neighbor 1: 444 Neighbor 2: 511 Neighbor 3: 0 Time: 8
+cellID: 445 Signal strength : 4 Neighbor 1: 444 Neighbor 2: 511 Neighbor 3: 0 Time: 10
+cellID: 445 Signal strength : 1 Neighbor 1: 446 Neighbor 2: 511 Neighbor 3: 0 Time: 7
+cellID: 450 Signal strength : 4 Neighbor 1: 445 Neighbor 2: 369 Neighbor 3: 149 Time: 13
+cellID: 451 Signal strength : 1 Neighbor 1: 452 Neighbor 2: 511 Neighbor 3: 0 Time: 2.8
+cellID: 451 Signal strength : 1 Neighbor 1: 450 Neighbor 2: 511 Neighbor 3: 0 Time: 2.5
+cellID: 451 Signal strength : 4 Neighbor 1: 450 Neighbor 2: 511 Neighbor 3: 0 Time: 4
+cellID: 181 Signal strength : 4 Neighbor 1: 180 Neighbor 2: 511 Neighbor 3: 0 Time: 8.9
+cellID: 181 Signal strength : 3 Neighbor 1: 180 Neighbor 2: 511 Neighbor 3: 407 Time: 12.99
+cellID: 446 Signal strength : 3 Neighbor 1: 452 Neighbor 2: 511 Neighbor 3: 42 Time: 9
+L!!!!!!!
+L!!!!!!!
+E!!!!!!!
+E!!!!!!!
+T!!!!!!!
+T!!!!!!!
+H!!!!!!!
+H!!!!!!!
+S!!!!!!!
+S!!!!!!!
+
+
+########## Beginning of HUSH + BARTENDR simulation ##########
+
+********************* Run : 1 **********************
+Screen is OFF!!!!
+
+cellID picked : 181
+cellID Signal Strength : 4
+Future signal cell ID 447
+Future signal cell ID 444
+Future signal cell ID 445
+Future signal cell ID 445
+Future signal cell ID -1
+Future signal cell ID 450
+Future signal cell ID -1
+Future signal cell ID -1
+Future signal cell ID 451
+Future signal cell ID 181
+CurrTime selected 8.9
+Signal strength is GOOD =4
+SyncTime that was selected by Bartendr is 17.8
+BFC of L is :0.364784
+BFC of E is :0.513401
+BFC of T is :0.95223
+BFC of H is :0.916195
+BFC of S is :0.635712
+
+The Schedule generated:
+*********T
+*********H
+*********S
+*********E
+*********L
+Time remaining for sync = 17.8
+Current app being being synced : T
+Current app time = 2
+Energy consumed by App T is : 185.157
+
+Time remaining for sync = 15.8
+Current app being being synced : H
+Current app time = 4
+Energy consumed by App H is : 438.529
+
+Time remaining for sync = 11.8
+Current app being being synced : S
+Current app time = 1
+Energy consumed by App S is : 73.0881
+
+Time remaining for sync = 10.8
+Current app being being synced : E
+Current app time = 1
+Energy consumed by App E is : 97.3243
+
+Time remaining for sync = 9.8
+Current app being being synced : L
+Current app time = 0
+Energy consumed by App L is : 0
+
+Done syncing all apps!
+********************* Run : 2 **********************
+Screen is OFF!!!!
+
+cellID picked : 444
+cellID Signal Strength : 4
+Future signal cell ID 447
+Future signal cell ID 444
+CurrTime selected 3
+Signal strength is GOOD =4
+SyncTime that was selected by Bartendr is 6
+BFC of L is :0.606969
+BFC of E is :0.0163006
+BFC of T is :0.242887
+BFC of H is :0.137232
+BFC of S is :0.804177
+
+The Schedule generated:
+*********S
+*********L
+*********T
+*********H
+*********E
+Time remaining for sync = 6
+Current app being being synced : S
+Current app time = 1
+Energy consumed by App S is : 73.0881
+
+Time remaining for sync = 5
+Current app being being synced : L
+Current app time = 0
+Energy consumed by App L is : 0
+
+Time remaining for sync = 5
+Current app being being synced : T
+Current app time = 2
+Energy consumed by App T is : 185.157
+
+Time remaining for sync = 3
+Current app being being synced : H
+Current app time = 4
+Energy consumed by App H is : 438.529
+
+********************* Run : 3 **********************
+Screen is OFF!!!!
+
+cellID picked : 447
+cellID Signal Strength : 4
+CurrTime selected 15
+Signal strength is GOOD =4
+SyncTime that was selected by Bartendr is 18
+BFC of L is :0.12979
+BFC of E is :0.108809
+BFC of T is :0.998924
+BFC of H is :0.218257
+BFC of S is :0.512932
+
+The Schedule generated:
+*********T
+*********S
+*********H
+*********L
+*********E
+Time remaining for sync = 18
+Current app being being synced : T
+Current app time = 2
+Energy consumed by App T is : 185.157
+
+Time remaining for sync = 16
+Current app being being synced : S
+Current app time = 1
+Energy consumed by App S is : 73.0881
+
+Time remaining for sync = 15
+Current app being being synced : H
+Current app time = 1
+Energy consumed by App H is : 109.632
+
+Time remaining for sync = 14
+Current app being being synced : L
+Current app time = 0
+Energy consumed by App L is : 0
+
+Time remaining for sync = 14
+Current app being being synced : E
+Current app time = 1
+Energy consumed by App E is : 97.3243
+
+Done syncing all apps!
+********************* Run : 4 **********************
+Screen is OFF!!!!
+
+cellID picked : 450
+cellID Signal Strength : 4
+Future signal cell ID 447
+Future signal cell ID 444
+Future signal cell ID 445
+Future signal cell ID 445
+Future signal cell ID -1
+Future signal cell ID 450
+CurrTime selected 13
+Signal strength is GOOD =4
+SyncTime that was selected by Bartendr is 26
+BFC of L is :0.296032
+BFC of E is :0.637552
+BFC of T is :0.524287
+BFC of H is :0.493583
+BFC of S is :0.972775
+
+The Schedule generated:
+*********S
+*********E
+*********T
+*********H
+*********L
+Time remaining for sync = 26
+Current app being being synced : S
+Current app time = 1
+Energy consumed by App S is : 73.0881
+
+Time remaining for sync = 25
+Current app being being synced : E
+Current app time = 1
+Energy consumed by App E is : 97.3243
+
+Time remaining for sync = 24
+Current app being being synced : T
+Current app time = 2
+Energy consumed by App T is : 185.157
+
+Time remaining for sync = 22
+Current app being being synced : H
+Current app time = 1
+Energy consumed by App H is : 109.632
+
+Time remaining for sync = 21
+Current app being being synced : L
+Current app time = 0
+Energy consumed by App L is : 0
+
+Done syncing all apps!
+********************* Run : 5 **********************
+Screen is ON!!!!
+
+********************* Run : 6 **********************
+Screen is OFF!!!!
+
+cellID picked : 189
+cellID Signal Strength : 1
+Future signal cell ID 447
+Future signal cell ID 444
+Future signal cell ID 445
+Future signal cell ID 445
+Future signal cell ID -1
+Future signal cell ID 450
+Future signal cell ID -1
+Future signal cell ID -1
+Future signal cell ID 451
+Future signal cell ID 181
+Future signal cell ID 181
+Future signal cell ID 446
+Future signal cell ID -1
+SyncTime that was selected by Bartendr is 0
+BFC of L is :0.769914
+BFC of E is :0.400229
+BFC of T is :0.891529
+BFC of H is :0.283315
+BFC of S is :0.352458
+
+The Schedule generated:
+*********T
+*********L
+*********E
+*********S
+*********H
+********************* Run : 7 **********************
+Screen is OFF!!!!
+
+cellID picked : 451
+cellID Signal Strength : 4
+Future signal cell ID 447
+Future signal cell ID 444
+Future signal cell ID 445
+Future signal cell ID 445
+Future signal cell ID -1
+Future signal cell ID 450
+Future signal cell ID -1
+CurrTime selected 2.8
+Signal strength is GOOD =4
+SyncTime that was selected by Bartendr is 2.8
+BFC of L is :0.0697553
+BFC of E is :0.949327
+BFC of T is :0.525995
+BFC of H is :0.0860558
+BFC of S is :0.192214
+
+The Schedule generated:
+*********E
+*********T
+*********S
+*********H
+*********L
+Time remaining for sync = 2.8
+Current app being being synced : E
+Current app time = 1
+Energy consumed by App E is : 97.3243
+
+Time remaining for sync = 1.8
+Current app being being synced : T
+Current app time = 2
+Energy consumed by App T is : 185.157
+
+********************* Run : 8 **********************
+Screen is OFF!!!!
+
+cellID picked : 42
+cellID Signal Strength : 4
+Future signal cell ID 447
+Future signal cell ID 444
+Future signal cell ID 445
+Future signal cell ID 445
+Future signal cell ID -1
+Future signal cell ID 450
+Future signal cell ID -1
+Future signal cell ID -1
+Future signal cell ID 451
+Future signal cell ID 181
+Future signal cell ID 181
+Future signal cell ID 446
+Future signal cell ID -1
+Signal strength is GOOD =4
+SyncTime that was selected by Bartendr is 2.8
+BFC of L is :0.348893
+BFC of E is :0.0641713
+BFC of T is :0.020023
+BFC of H is :0.457702
+BFC of S is :0.0630958
+
+The Schedule generated:
+*********H
+*********L
+*********E
+*********S
+*********T
+Time remaining for sync = 2.8
+Current app being being synced : H
+Current app time = 1
+Energy consumed by App H is : 109.632
+
+Time remaining for sync = 1.8
+Current app being being synced : L
+Current app time = 0
+Energy consumed by App L is : 0
+
+Time remaining for sync = 1.8
+Current app being being synced : E
+Current app time = 1
+Energy consumed by App E is : 97.3243
+
+Time remaining for sync = 0.8
+Current app being being synced : S
+Current app time = 1
+Energy consumed by App S is : 73.0881
+
+********************* Run : 9 **********************
+Screen is ON!!!!
+
+********************* Run : 10 **********************
+Screen is ON!!!!
+

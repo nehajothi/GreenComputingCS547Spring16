@@ -1,0 +1,244 @@
+cellID: 447 Signal strength : 2 Neighbor 1: 446 Neighbor 2: 511 Neighbor 3: 0 Time: 15
+cellID: 447 Signal strength : 4 Neighbor 1: 444 Neighbor 2: 511 Neighbor 3: 0 Time: 4.567
+cellID: 444 Signal strength : 4 Neighbor 1: 0 Neighbor 2: 0 Neighbor 3: 0 Time: 3
+cellID: 445 Signal strength : 4 Neighbor 1: 444 Neighbor 2: 511 Neighbor 3: 0 Time: 8
+cellID: 445 Signal strength : 4 Neighbor 1: 444 Neighbor 2: 511 Neighbor 3: 0 Time: 10
+cellID: 445 Signal strength : 1 Neighbor 1: 446 Neighbor 2: 511 Neighbor 3: 0 Time: 7
+cellID: 450 Signal strength : 4 Neighbor 1: 445 Neighbor 2: 369 Neighbor 3: 149 Time: 13
+cellID: 451 Signal strength : 1 Neighbor 1: 452 Neighbor 2: 511 Neighbor 3: 0 Time: 2.8
+cellID: 451 Signal strength : 1 Neighbor 1: 450 Neighbor 2: 511 Neighbor 3: 0 Time: 2.5
+cellID: 451 Signal strength : 4 Neighbor 1: 450 Neighbor 2: 511 Neighbor 3: 0 Time: 4
+cellID: 181 Signal strength : 4 Neighbor 1: 180 Neighbor 2: 511 Neighbor 3: 0 Time: 8.9
+cellID: 181 Signal strength : 3 Neighbor 1: 180 Neighbor 2: 511 Neighbor 3: 407 Time: 12.99
+cellID: 446 Signal strength : 3 Neighbor 1: 452 Neighbor 2: 511 Neighbor 3: 42 Time: 9
+L!!!!!!!
+L!!!!!!!
+E!!!!!!!
+E!!!!!!!
+T!!!!!!!
+T!!!!!!!
+H!!!!!!!
+H!!!!!!!
+S!!!!!!!
+S!!!!!!!
+
+
+########## Beginning of only BARTENDR simulation ##########
+
+********************* Run : 1 **********************
+Screen is OFF!!!!
+
+cellID picked : 181
+cellID Signal Strength : 4
+Future signal cell ID 447
+Future signal cell ID 444
+Future signal cell ID 445
+Future signal cell ID 445
+Future signal cell ID -1
+Future signal cell ID 450
+Future signal cell ID -1
+Future signal cell ID -1
+Future signal cell ID 451
+Future signal cell ID 181
+CurrTime selected 8.9
+Signal strength is GOOD =4
+SyncTime that was selected by Bartendr is 17.8
+Time remaining to sync : 17.8
+Current app being being synced : L
+Current app time = 3
+Energy consumed by App L is : 346.8
+
+Time remaining to sync : 14.8
+Current app being being synced : E
+Current app time = 1
+Energy consumed by App E is : 115.45
+
+Time remaining to sync : 13.8
+Current app being being synced : T
+Current app time = 2
+Energy consumed by App T is : 219.64
+
+Time remaining to sync : 11.8
+Current app being being synced : H
+Current app time = 0
+Energy consumed by App H is : 0
+
+Time remaining to sync : 11.8
+Current app being being synced : S
+Current app time = 3
+Energy consumed by App S is : 260.1
+
+********************* Run : 2 **********************
+Screen is OFF!!!!
+
+cellID picked : 43
+cellID Signal Strength : 3
+Future signal cell ID 447
+Future signal cell ID 444
+Future signal cell ID 445
+Future signal cell ID 445
+Future signal cell ID -1
+Future signal cell ID 450
+Future signal cell ID -1
+Future signal cell ID -1
+Future signal cell ID 451
+Future signal cell ID 181
+Future signal cell ID 181
+Future signal cell ID 446
+Future signal cell ID -1
+Signal strength is GOOD =3
+SyncTime that was selected by Bartendr is 8.9
+Time remaining to sync : 8.9
+Current app being being synced : L
+Current app time = 3
+Energy consumed by App L is : 346.8
+
+Time remaining to sync : 5.9
+Current app being being synced : E
+Current app time = 1
+Energy consumed by App E is : 115.45
+
+Time remaining to sync : 4.9
+Current app being being synced : T
+Current app time = 2
+Energy consumed by App T is : 219.64
+
+Time remaining to sync : 2.9
+Current app being being synced : H
+Current app time = 0
+Energy consumed by App H is : 0
+
+Time remaining to sync : 2.9
+Current app being being synced : S
+Current app time = 3
+Energy consumed by App S is : 260.1
+
+********************* Run : 3 **********************
+Screen is ON!!!!
+
+********************* Run : 4 **********************
+Screen is OFF!!!!
+
+cellID picked : 451
+cellID Signal Strength : 1
+Future signal cell ID 447
+Future signal cell ID 444
+Future signal cell ID 445
+Future signal cell ID 445
+Future signal cell ID -1
+Future signal cell ID 450
+Future signal cell ID -1
+CurrTime selected 2.8
+SyncTime that was selected by Bartendr is 0
+********************* Run : 5 **********************
+Screen is OFF!!!!
+
+cellID picked : 444
+cellID Signal Strength : 4
+Future signal cell ID 447
+Future signal cell ID 444
+CurrTime selected 3
+Signal strength is GOOD =4
+SyncTime that was selected by Bartendr is 6
+Time remaining to sync : 6
+Current app being being synced : L
+Current app time = 3
+Energy consumed by App L is : 346.8
+
+Time remaining to sync : 3
+Current app being being synced : E
+Current app time = 1
+Energy consumed by App E is : 115.45
+
+Time remaining to sync : 2
+Current app being being synced : T
+Current app time = 2
+Energy consumed by App T is : 219.64
+
+********************* Run : 6 **********************
+Screen is OFF!!!!
+
+cellID picked : 47
+cellID Signal Strength : 2
+Future signal cell ID 447
+Future signal cell ID 444
+Future signal cell ID 445
+Future signal cell ID 445
+Future signal cell ID -1
+Future signal cell ID 450
+Future signal cell ID -1
+Future signal cell ID -1
+Future signal cell ID 451
+Future signal cell ID 181
+Future signal cell ID 181
+Future signal cell ID 446
+Future signal cell ID -1
+SyncTime that was selected by Bartendr is 0
+********************* Run : 7 **********************
+Screen is OFF!!!!
+
+cellID picked : 43
+cellID Signal Strength : 3
+Future signal cell ID 447
+Future signal cell ID 444
+Future signal cell ID 445
+Future signal cell ID 445
+Future signal cell ID -1
+Future signal cell ID 450
+Future signal cell ID -1
+Future signal cell ID -1
+Future signal cell ID 451
+Future signal cell ID 181
+Future signal cell ID 181
+Future signal cell ID 446
+Future signal cell ID -1
+Signal strength is GOOD =3
+SyncTime that was selected by Bartendr is 3
+Time remaining to sync : 3
+Current app being being synced : L
+Current app time = 3
+Energy consumed by App L is : 346.8
+
+********************* Run : 8 **********************
+Screen is ON!!!!
+
+********************* Run : 9 **********************
+Screen is OFF!!!!
+
+cellID picked : 447
+cellID Signal Strength : 4
+CurrTime selected 15
+Signal strength is GOOD =4
+SyncTime that was selected by Bartendr is 15
+Time remaining to sync : 15
+Current app being being synced : L
+Current app time = 3
+Energy consumed by App L is : 346.8
+
+Time remaining to sync : 12
+Current app being being synced : E
+Current app time = 1
+Energy consumed by App E is : 115.45
+
+Time remaining to sync : 11
+Current app being being synced : T
+Current app time = 2
+Energy consumed by App T is : 219.64
+
+Time remaining to sync : 9
+Current app being being synced : H
+Current app time = 0
+Energy consumed by App H is : 0
+
+Time remaining to sync : 9
+Current app being being synced : S
+Current app time = 3
+Energy consumed by App S is : 260.1
+
+********************* Run : 10 **********************
+Screen is OFF!!!!
+
+cellID picked : 447
+cellID Signal Strength : 2
+CurrTime selected 15
+SyncTime that was selected by Bartendr is 0
